@@ -3,6 +3,6 @@
         "doctrine/orm": "^3",
         "doctrine/dbal": "^4",
         "symfony/cache": "^7",
-        "ariga/atlas-provider-doctrine": "v3"
+        "ariga/atlas-provider-doctrine": "^4"
     }
 }
